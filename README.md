@@ -1,13 +1,13 @@
-## Serverless-tutorial
+# Serverless-tutorial
 Serverless tutorial for AWS Amazon platform
 
 
-Please read "Presentation de la technologie" first and then create your AWS account.
+**Please read "Presentation de la technologie" first and then create your AWS account.**
 
 Video of the tutorial is available at: 
 
 
-# Tutorial objective
+## Tutorial objective
 The objectives of this tutorial is to implement a Stack of AWS amazon plateform ressources to provide a Serverless service with a Rest API. This tutorial is based on GUI for AWS Toolkit in Eclipse for Java.
 
 You will see through this vidéo how to generate a template for a Get / Post API using services like:
