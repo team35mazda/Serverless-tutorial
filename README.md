@@ -4,7 +4,7 @@ Serverless tutorial for AWS Amazon platform
 
 **Please read [Presentation de la technologie](https://github.com/team35mazda/Serverless-tutorial/blob/master/Pr%C3%A9sentation%20de%20la%20technologie.pdf) first and then [create your AWS account](https://github.com/team35mazda/Serverless-tutorial/blob/master/Cr%C3%A9ation%20compte%20AWS.pdf).**
 
-Video of the tutorial is available [Here](https://youtu.be/ny7UBACjFUo)
+Video of the tutorial is available [Here](https://youtu.be/7YXbP4EtYwU)
 
 
 ## Tutorial objective
