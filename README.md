@@ -29,7 +29,9 @@ As you can see in the next pictures, the idea of “nanoservices” represents a
 
 ### AWS services architecture
 
-![](https://github.com/team35mazda/Serverless-tutorial/blob/master/Tutorial%20assets/AWS Deployment Diagram.png)
+![](https://github.com/team35mazda/Serverless-tutorial/blob/master/Tutorial%20assets/AWSDeploymentDiagram.png)
+
+
 
 ## Advantages
 
@@ -42,6 +44,24 @@ Amazon explain that : « Billing is metered in increments of 100 milliseconds, m
 Un avantage intéresssant si on considère le coût des infrastructures matérielles souvent nécessaire à de petit projet en startup.
 
 De plus, lorsque ces projets grossissent ou subissent des augmentations de fréquentation, il n’est pas nécessaire d’acquiérir du matériel supplémenaire.
+
+All definitions of figure 3 Amazons AWS services are available at aws.amazon.com serverless computing overview page that can be visit [here](https://aws.amazon.com/serverless/?nc1=h_ls).
+In our tutorial, we will use :
+-	Amazon API Gateway
+-	AWS Lambda
+-	Amazon DynamoDB
+-	Amazon S3
+
+## Policies and permissions
+Afin de gérer la sécurité et les droits des divers composants de l’architecture Serverless AWS, il est important de comprendre grossièrement le fonctionnement de AWS Identity and Access Management (aka. IAM).
+ 
+Les termes utilisés sont:
+-	Identities : users, groups of users, roles
+-	Ressources : AWS ressources
+-	Policy : Object in AWS that, when associated with an identity or ressource, defines their permissions.
+-	 Permissions : Determine whether the request is alloweed or denied
+La figure suivante exprime la relation de ces termes :
+
 
 
 
