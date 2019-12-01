@@ -17,3 +17,7 @@ You will see through this vidéo how to generate a template for a Get / Post API
 - Lambda (*Function as a service* cloud service)
 
 After this tutorial, you may reuse this *Blueprint* of Java serverless project to build many other one by changing only the java code of the handeler of a function. Usage of POJO for input / output http request help developper stay focus on the function code.
+
+##Creating an AWS account
+
+Follow the instructions from the 
