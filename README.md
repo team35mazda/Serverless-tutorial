@@ -62,7 +62,7 @@ Les termes utilisés sont:
 -	 Permissions : Determine whether the request is alloweed or denied
 La figure suivante exprime la relation de ces termes :
 
-
+![](https://github.com/team35mazda/Serverless-tutorial/blob/master/Tutorial%20assets/AWSRoleDiagram.png)
 
 
 Video of the tutorial is available [Here](https://youtu.be/7YXbP4EtYwU)
