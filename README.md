@@ -27,6 +27,10 @@ As you can see in the next pictures, the idea of “nanoservices” represents a
 
 ![Microservice example](https://github.com/team35mazda/Serverless-tutorial/blob/master/Tutorial%20assets/Microservices.png)
 
+### AWS services architecture
+
+![](https://github.com/team35mazda/Serverless-tutorial/blob/master/Tutorial%20assets/AWS Deployment Diagram.png)
+
 ## Advantages
 
 -	Flexible and automatic scalability
