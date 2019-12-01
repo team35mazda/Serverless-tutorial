@@ -25,9 +25,21 @@ As you can see in the next pictures, the idea of “nanoservices” represents a
 
 ![Nanoservice example](https://github.com/team35mazda/Serverless-tutorial/blob/master/Tutorial%20assets/nanoservices.png)
 
+![Microservice example](https://github.com/team35mazda/Serverless-tutorial/blob/master/Tutorial%20assets/Microservices.png)
+
+## Advantages
+
+-	Flexible and automatic scalability
+La structure des fournisseurs de service FaaS en environnement Serverless permettent l’exécution de plus de 3000 (aws.amazon.com) instances simultanées d’une fonction, à la demande. Une instance de fonction n’est pas détruite à la fin de l’opération. Celle-ci reste active temporairement afin de répondre à un nouvel appel. Elle est par la suite détruite.
+-	High availability
+As said by Amazon : « AWS Lambda is designed to use replication and redundancy to provide high availability. » Based on (Petrillo, 2019), an Highly availability means a percentage of 99.999%. Wich reprensents an outage of 26 seconds per month.
+-	Pay per use (PPU) 
+Amazon explain that : « Billing is metered in increments of 100 milliseconds, making it cost-effective and easy to scale automatically from a few requests per day to thousands per second. » 
+Un avantage intéresssant si on considère le coût des infrastructures matérielles souvent nécessaire à de petit projet en startup.
+
+De plus, lorsque ces projets grossissent ou subissent des augmentations de fréquentation, il n’est pas nécessaire d’acquiérir du matériel supplémenaire.
 
 
-**Please read [Presentation de la technologie](https://github.com/team35mazda/Serverless-tutorial/blob/master/Pr%C3%A9sentation%20de%20la%20technologie.pdf) first and then [create your AWS account](https://github.com/team35mazda/Serverless-tutorial/blob/master/Cr%C3%A9ation%20compte%20AWS.pdf).**
 
 Video of the tutorial is available [Here](https://youtu.be/7YXbP4EtYwU)
 
@@ -43,13 +55,13 @@ You will see through this vidéo how to generate a template for a Get / Post API
 
 After this tutorial, you may reuse this *Blueprint* of Java serverless project to build many other one by changing only the java code of the handeler of a function. Usage of POJO for input / output http request help developper stay focus on the function code.
 
-##Creating an AWS account
+## Creating an AWS account
 
 Follow the instructions from the 
 
 
 
-##Bibliography
+## Bibliography
 
 - Haines, S. (2018, jan 11). Serverless computing with AWS Lambda, part 1. Récupéré sur Javaword: https://www.javaworld.com/article/3210726/serverless-computing-with-aws-lambda.html
 - Muens, P. (2016, jun 1). Nanoservices,Microservices,Monolith -- Serverless architectures by example. Récupéré sur medium.com: https://medium.com/@pmuens/nanoservices-microservices-monolith-serverless-architectures-by-example-2e95365a0f6f
