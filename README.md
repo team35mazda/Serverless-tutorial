@@ -23,7 +23,7 @@ Theses functions are stateless. That means they are taking input and generate ou
 Like (Haines, 2018) said, « The term "nanoservices" is not an industry recognized term, but the idea is simple: each nanoservice should implement a single action or responsibility.”
 As you can see in the next pictures, the idea of “nanoservices” represents an smaller entity then microservice. 
 
-![](/Tutorial assets/nanoservices.png)
+![Nanoservice example](/Tutorial assets/nanoservices.png)
 
 
 
