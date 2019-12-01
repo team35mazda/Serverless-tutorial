@@ -65,7 +65,7 @@ La figure suivante exprime la relation de ces termes :
 ![](https://github.com/team35mazda/Serverless-tutorial/blob/master/Tutorial%20assets/AWSRoleDiagram.png)
 
 
-Video of the tutorial is available [Here](https://youtu.be/7YXbP4EtYwU)
+
 
 
 ## Tutorial objective
@@ -81,11 +81,17 @@ After this tutorial, you may reuse this *Blueprint* of Java serverless project t
 
 ## Creating an AWS account
 
-Follow the instructions from the 
+Follow the next steps to configure your free AWS Account before starting the tutorial video. These steps comes from the book *Serverless programming cookbook* (Kanikathottu, 2019)
+
+![](https://github.com/team35mazda/Serverless-tutorial/blob/master/Tutorial%20assets/howto1.png)
+![](https://github.com/team35mazda/Serverless-tutorial/blob/master/Tutorial%20assets/howto2.png)
+![](https://github.com/team35mazda/Serverless-tutorial/blob/master/Tutorial%20assets/howto3.png)
 
 
+## Tutorial
+Video of the tutorial is available [Here](https://youtu.be/7YXbP4EtYwU)
 
-## Bibliography
+### Bibliography
 
 - Haines, S. (2018, jan 11). Serverless computing with AWS Lambda, part 1. Récupéré sur Javaword: https://www.javaworld.com/article/3210726/serverless-computing-with-aws-lambda.html
 - Muens, P. (2016, jun 1). Nanoservices,Microservices,Monolith -- Serverless architectures by example. Récupéré sur medium.com: https://medium.com/@pmuens/nanoservices-microservices-monolith-serverless-architectures-by-example-2e95365a0f6f
