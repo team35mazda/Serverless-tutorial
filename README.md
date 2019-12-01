@@ -18,7 +18,7 @@ Here's the serverless execution model in a nutshell:
 5.	It returns the result back to the client.
 Theses functions are stateless. That means they are taking input and generate output without cache or memorystack. Each instance of a FaaS is destoyed after usage.
 
-##Architecture
+## Architecture
 
 Like (Haines, 2018) said, « The term "nanoservices" is not an industry recognized term, but the idea is simple: each nanoservice should implement a single action or responsibility.”
 As you can see in the next pictures, the idea of “nanoservices” represents an smaller entity then microservice. 
