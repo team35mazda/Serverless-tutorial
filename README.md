@@ -89,7 +89,7 @@ Follow the next steps to configure your free AWS Account before starting the tut
 
 
 ## Tutorial
-Video of the tutorial is available [Here](https://youtu.be/7YXbP4EtYwU)
+[](https://github.com/team35mazda/Serverless-tutorial/blob/master/Tutorial%20assets/YoutubeShot.PNG)(https://youtu.be/7YXbP4EtYwU)
 
 ### Bibliography
 
